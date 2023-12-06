@@ -28,13 +28,4 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/Favnirrr">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Favnirrr?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/Favnirrr">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/Favnirrr">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Favnirrr/posts.svg" />
-  </a>
-  <//qiita.com/Favnirrr">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Favnirrr/contributions.svg" />
-  </a>
 </p>
