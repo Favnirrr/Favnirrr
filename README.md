@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Favnirrr/Favnirrr/">
     <img src="https://komarev.com/ghpvc/?username=Favnirrr" alt="Favnirrr" />
   </a>
-  <a href="http://twitter.com/Favnirrr">
+  <a href="https://twitter.com/Favni_rVRC">
     <img height="20" src="https://img.shields.io/twitter/follow/Favnirrr?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Favnirrr">
